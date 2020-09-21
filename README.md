@@ -3,8 +3,8 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 
 ## Featured Run: 
 <div style=”text-align:center”>
-
-#### Four Bridges 100% Run by [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) in 5 Minutes 13.26s!
+ 
+**Four Bridges 100% Run by [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) in 5 Minutes 13.26s!**
 
 [!<img src="https://img.youtube.com/vi/al_iDcw2ywU/0.jpg">](https://www.youtube.com/watch?v=al_iDcw2ywU)
 
