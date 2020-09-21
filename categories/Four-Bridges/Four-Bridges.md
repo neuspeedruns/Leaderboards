@@ -1,6 +1,6 @@
 # Four Bridges Speedrun
 
-This speedrun requires crossing all four bridges (in any order) that cross the orange line. These bridges are:
+This speedrun requires crossing all four bridges (in any order) that cross the orange line as fast as possible. These bridges are:
 - Ruggles
 - ISEC Bridge (Rusty Bridge)
 - Columbus Garage Bridge
