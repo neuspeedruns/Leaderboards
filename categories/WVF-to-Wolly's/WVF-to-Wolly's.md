@@ -9,9 +9,9 @@ The 100% category is for those runners who purchase an item. If you would rather
 
 | Position |    Runner     |  Time | Date | Link|
 |:----------:|:-------------:|:------:|:----:|:---|
-| <img src="../../img/1st.png" width="15">**1st** |  [Fir3hawkDaGreat](https://www.reddit.com/u/Fir3hawkDaGreat/) | 2m 54s 020ms | September 20th, 2020 | [Link](https://www.reddit.com/r/NEU/comments/ivk6m4/new_wr_25402_wvf_to_wollastons_any/)| 
-| <img src="../../img/2nd.png" width="15">**2nd** |    [neuspeedruns](https://www.reddit.com/user/neuspeedruns/)  |   3m 09s 010ms  | September 20th, 2020 | [Link](https://www.reddit.com/r/NEU/comments/iuwmzh/world_record_wvf_to_wollastons_speedrun_in_309/) |
-| <img src="../../img/3rd.png" width="15">**3rd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
+| <img src="../../img/1st.png" width="15">**1st** |  [Fir3hawkDaGreat](https://www.reddit.com/u/Fir3hawkDaGreat/) | 2m 54s 020ms | September 18th, 2020 | [Link](https://www.reddit.com/r/NEU/comments/ivk6m4/new_wr_25402_wvf_to_wollastons_any/)| 
+| <img src="../../img/2nd.png" width="15">**2nd** |    [neuspeedruns](https://www.reddit.com/user/neuspeedruns/)  |   3m 09s 010ms  | September 17th, 2020 | [Link](https://www.reddit.com/r/NEU/comments/iuwmzh/world_record_wvf_to_wollastons_speedrun_in_309/) |
+| <img src="../../img/3rd.png" width="15">**3rd** | [bigbluebagboy](https://www.reddit.com/user/bigbluebagboy/) | 3m 14s 882ms  | September 19th, 2020 | [Link](https://www.reddit.com/r/NEU/comments/ivm2ra/west_f_speed_run_big_blue_edition/?utm_source=share&utm_medium=web2x&context=3) |
 
 ### Any% Leaderboard
 
