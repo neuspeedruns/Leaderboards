@@ -1,7 +1,8 @@
 # NEU Speed Runs
 This website contains the leaderboards for all NEU related speedruns. This site was created to allow students to compete in a series of different on-campus speedruns. That being said, please remember that the purpose of this is entirely for fun, and should never be taken too far in terms of putting anyone at risk (i.e. running very fast through crowded areas, breaking on-campus rules, etc.). Please remember to have fun, be competitve, and stay safe.
 
-## Featured Run: Four Bridges 100% Run by [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) in 5 Minutes 13.26s!
+## Featured Run: 
+#### Four Bridges 100% Run by [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) in 5 Minutes 13.26s!
 
 [![Speedrun Video](https://img.youtube.com/vi/al_iDcw2ywU/0.jpg)](https://www.youtube.com/watch?v=al_iDcw2ywU)
 
@@ -14,11 +15,15 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 - [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md)
 - [WVF to Wolly's](categories/WVF-to-Wolly's/WVF-to-Wolly's.md)
 
+---
+
 ## Submit a Run:
 Submit a run [here](https://forms.gle/hHda5Qc1Fa8ozx5f7).
 
 ## Suggest a Category:
 Suggest a category [here](https://forms.gle/SrYrvaDFVL6XuNJi8).
+
+---
 
 ## FAQ
 
