@@ -1,6 +1,7 @@
 # NEU Speed Runs
 
 Categories:
+- [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md)
 - [Dining Halls](categories/Dining-Halls/Dining-Halls.md)
 - [Four Bridges](categories/Four-Bridges/Four-Bridges.md)
 - [ResMail](categories/ResMail/ResMail.md)
