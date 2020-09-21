@@ -1,7 +1,7 @@
 # NEU Speed Runs
 This website contains the leaderboards for all NEU related speedruns. This site was created to allow students to compete in a series of different on-campus speedruns. That being said, please remember that the purpose of this is entirely for fun, and should never be taken too far in terms of putting anyone at risk (i.e. running very fast through crowded areas, breaking on-campus rules, etc.). Please remember to have fun, be competitve, and stay safe.
 
-Categories:
+## Categories:
 - [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md)
 - [Dining Halls](categories/Dining-Halls/Dining-Halls.md)
 - [Four Bridges](categories/Four-Bridges/Four-Bridges.md)
