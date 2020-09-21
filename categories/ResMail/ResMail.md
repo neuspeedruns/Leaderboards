@@ -1,5 +1,9 @@
 # ResMail Speedrun
 
+This speedrun is a luck-based speedrun that entirely relies on how quickly the ResMail staff can get your package. The time starts upon entering ResMail, and ends upon leaving ResMail with your package. The 100% category is for legit runs where you go through the standard ResMail package-receiving process before leaving with your package. The any% category allows for exploits if you can find them.
+
+**Note:** Please be respectful to ResMail staff and others at ResMail. Any runs going against this will be voided.
+
 No Verified Runs for this speedrun yet... Submit a run [here](https://forms.gle/hHda5Qc1Fa8ozx5f7)
 
 ## Categories:
