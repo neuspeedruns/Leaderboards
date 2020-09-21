@@ -1,5 +1,13 @@
 # Dining Halls Speedrun
 
+The Dining Halls speed run involves running to each and every official dining hall on campus. While there are some dining locations that could be considered dining halls, this route includes the following:
+
+- Stetson West Dining Hall (Stwest)
+- Levine Marketplace (Steast)
+- International Village (IV)
+
+This run has not been officially routed yet. The only rules are that you must get within a few feet of the door to each facility for your run to count. If there is a line at the facility, you can substitute running to the door by running by the end of the line (keeping a safe 6ft of social distancing). This could be used to your advantage if there is a very long line.
+
 No Verified Runs for this speedrun yet... Submit a run [here](https://forms.gle/hHda5Qc1Fa8ozx5f7)
 
 ## Categories:
