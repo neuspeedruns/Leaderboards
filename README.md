@@ -6,9 +6,9 @@ This website is a work in progress. For patch notes and **awesome upcoming featu
 
 ## Featured Run: 
 
-**Four Bridges 100% Run by [Kings_of_West_Willis](https://www.reddit.com/user/Kings_of_West_Willis/) in 4 Minutes 51.67s!**
+**Four Bridges 100% Run by [Arridon](https://www.reddit.com/user/Arridon/) in 4 Minutes 44.40s!**
 
-[<img src="https://img.youtube.com/vi/Peo-wvliLn8/0.jpg">](https://www.youtube.com/watch?v=Peo-wvliLn8)
+[<img src="https://img.youtube.com/vi/UYny0g0ta9w/0.jpg">](https://www.youtube.com/watch?v=UYny0g0ta9w)
 
 
 ## Categories:
