@@ -20,3 +20,4 @@
 - **Website Launch**
   - September 20th, 2020
 
+[Back to Home Page](../README.md)
