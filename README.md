@@ -6,17 +6,17 @@ This website is a work in progress. For patch notes and **awesome upcoming featu
 
 ## Featured Run: 
 
-**Four Bridges 100% Run by [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) in 5 Minutes 13.26s!**
+**Four Bridges 100% Run by [Kings_of_West_Willis](https://www.reddit.com/user/Kings_of_West_Willis/) in 4 Minutes 51.67s!**
 
-[<img src="https://img.youtube.com/vi/al_iDcw2ywU/0.jpg">](https://www.youtube.com/watch?v=al_iDcw2ywU)
+[<img src="https://img.youtube.com/vi/Peo-wvliLn8/0.jpg">](https://www.youtube.com/watch?v=Peo-wvliLn8)
 
 
 ## Categories:
 - [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md)
 - [Dining Halls](categories/Dining-Halls/Dining-Halls.md)
-- [Four Bridges](categories/Four-Bridges/Four-Bridges.md)
+- [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(New Submissions!)*
 - [ResMail](categories/ResMail/ResMail.md)
-- [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md)
+- [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(New Submissions!)*
 - [WVF to Wolly's](categories/WVF-to-Wolly's/WVF-to-Wolly's.md)
 
 

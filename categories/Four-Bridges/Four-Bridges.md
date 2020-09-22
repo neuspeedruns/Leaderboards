@@ -15,10 +15,11 @@ The time starts once you start crossing your first bridge, and ends after crossi
 
 ### 100% Leaderboard
 
+
 | Position |    Runner     |  Time | Date|Link|
 |:----------:|:-------------:|:------:|:----:|:---:|
-| <img src="../../img/1st.png" width="15">**1st** | [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) | 5m 13s 260ms  | September 21th, 2020 | [Link](https://www.youtube.com/watch?v=al_iDcw2ywU) |
-| <img src="../../img/2nd.png" width="15">**2nd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
+| <img src="../../img/1st.png" width="15">**1st** | [Kings_of_West_Willis](https://www.reddit.com/user/Kings_of_West_Willis/) | 4m 51s 670ms  | September 21th, 2020 | [Link](https://www.youtube.com/watch?v=Peo-wvliLn8) |
+| <img src="../../img/2nd.png" width="15">**2nd** | [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) | 5m 13s 260ms  | September 21th, 2020 | [Link](https://www.youtube.com/watch?v=al_iDcw2ywU) |
 | <img src="../../img/3rd.png" width="15">**3rd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
 
 ### TAS 100% Leaderboard

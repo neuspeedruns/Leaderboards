@@ -12,7 +12,7 @@ No Verified Runs for this speedrun yet... Submit a run [here](https://forms.gle/
 
 | Position |    Runner     |  Time | Date|Link|
 |:----------:|:-------------:|:------:|:----:|:---:|
-| <img src="../../img/1st.png" width="15">**1st** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
+| <img src="../../img/1st.png" width="15">**1st** | [LT-neu-speed](https://www.reddit.com/user/LT-neu-speed/) | 2m 01s 630ms  | September 22th, 2020 | [Link](https://www.youtube.com/watch?v=EcAOG4yJC5Y) |
 | <img src="../../img/2nd.png" width="15">**2nd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
 | <img src="../../img/3rd.png" width="15">**3rd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
 
