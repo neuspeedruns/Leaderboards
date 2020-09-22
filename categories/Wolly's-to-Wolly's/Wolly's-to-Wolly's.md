@@ -4,8 +4,6 @@ This speedrun has two distinct categories: 100% and any%. The any% run must begi
 
 Reminder that any run that violates any campus rules/COVID-19 regulations is voided.
 
-No Verified Runs for this speedrun yet... Submit a run [here](https://forms.gle/hHda5Qc1Fa8ozx5f7)
-
 ## Categories:
 
 ### 100% Leaderboard
