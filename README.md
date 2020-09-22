@@ -1,6 +1,9 @@
 # NEU Speed Runs
 This website contains the leaderboards for all NEU related speedruns. This site was created to allow students to compete in a series of different on-campus speedruns. That being said, please remember that the purpose of this is entirely for fun, and should never be taken too far in terms of putting anyone at risk (i.e. running very fast through crowded areas, breaking on-campus rules, etc.). Please remember to have fun, be competitve, and stay safe.
 
+This website is a work in progress. For patch notes and **awesome upcoming features**, see [here](updates/updates.md).
+
+
 ## Featured Run: 
 
 **Four Bridges 100% Run by [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) in 5 Minutes 13.26s!**
