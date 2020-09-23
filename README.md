@@ -6,9 +6,9 @@ This website is a work in progress. For patch notes and **awesome upcoming featu
 
 ## Featured Run: 
 
-**Four Bridges 100% Run by [Arridon](https://www.reddit.com/user/Arridon/) in 4 Minutes 44.40s!**
+**Four Bridges 100% [NEW WORLD RECORD] Run by [louderlotto](https://www.reddit.com/user/louderlotto/) in 3 Minutes 54.85s! Almost a full minute of time saved!**
 
-[<img src="https://img.youtube.com/vi/UYny0g0ta9w/0.jpg">](https://www.youtube.com/watch?v=UYny0g0ta9w)
+[<img src="https://img.youtube.com/vi/xeoFSoX1CVg/0.jpg">](https://www.youtube.com/watch?v=xeoFSoX1CVg)
 
 
 ## Categories:
