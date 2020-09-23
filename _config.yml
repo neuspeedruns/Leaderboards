@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 
 github:
   is_project_page: false
-  show_discord: true
+  show_discord: false
   discord_url: "https://discord.gg/wU7gCkM"
