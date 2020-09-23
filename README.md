@@ -13,7 +13,7 @@ This website is a work in progress. For patch notes and **awesome upcoming featu
 # Categories
 ---
 ## New Categories
-- [Dorm to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(Previously WVF to Wolly's)*
+- [Dorm to Wolly's](categories/Dorm-to-Wolly's/Dorm-to-Wolly's.md) *(Previously WVF to Wolly's)*
 
 ## Hot Categories 
 - <img src="img/1st.png" width="15"> [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(4 New Submissions!)*
@@ -28,7 +28,7 @@ This website is a work in progress. For patch notes and **awesome upcoming featu
 - [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(New Submissions!)*
 - [ResMail](categories/ResMail/ResMail.md)
 - [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(New Submissions!)*
-- [Dorm to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(Previously WVF to Wolly's)*
+- [Dorm to Wolly's](categories/Dorm-to-Wolly's/Dorm-to-Wolly's.md) *(Previously WVF to Wolly's)*
 
 
 
