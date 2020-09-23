@@ -3,6 +3,19 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 
 This website is a work in progress. For patch notes and **awesome upcoming features**, see [here](updates/updates.md).
 
+---
+
+## News: [Official Discord Server <img src="img/discord.png" width="30" align="center">](https://discord.gg/wU7gCkM)
+Anyone familiar with the speedrunning scene knows that speedrunning communities discuss routing, new tricks/timesaves, and meet new people through the use of a discord server. For these reasons, we are proud to announce the launch of the [Official Discord Server](https://discord.gg/wU7gCkM) for the NEU Speedrunning Community. 
+
+It will take a few days to populate with everyone, but we are confident that this will become a great community of people over the Fall Semester. 
+
+It's also important to note that you don't have to be a "speedrunner" to join this community. Whether you want to get the next world record in one of our competitve categories, submit a run for fun, keep track of the current runners, or just meet new people, this community is for you! So be sure to spread the word to friends! We look forward to talking with you all soon on the Server!
+
+Join the server [here](https://discord.gg/wU7gCkM)!
+
+---
+
 ## Featured Run: 
 
 
@@ -52,6 +65,9 @@ Feel free to email us: [neuspeedruns@gmail.com](mailto:neuspeedruns@gmail.com)
 
 #### Is this an official "thing" run through the University?
 No, this is a student run simple webpage hosted through github pages.
+
+#### Can I help Mod the discord server?
+We currently have a couple mods, but we are happy to take on more people! Speedrunning discord servers are usually quite community run, so everyone will have a decent amount of permissions as a spectator/runner.
 
 
 
