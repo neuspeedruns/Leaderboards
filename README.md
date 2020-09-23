@@ -3,21 +3,32 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 
 This website is a work in progress. For patch notes and **awesome upcoming features**, see [here](updates/updates.md).
 
-
 ## Featured Run: 
+
 
 **Four Bridges 100% [NEW WORLD RECORD] Run by [louderlotto](https://www.reddit.com/user/louderlotto/) in 3 Minutes 54.85s! Almost a full minute of time saved!**
 
 [<img src="https://img.youtube.com/vi/xeoFSoX1CVg/0.jpg">](https://www.youtube.com/watch?v=xeoFSoX1CVg)
 
+# Categories
+---
+## New Categories
+- [Dorm to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(Previously WVF to Wolly's)*
 
-## Categories:
+## Hot Categories 
+- <img src="img/1st.png" width="15"> [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(4 New Submissions!)*
+- <img src="img/2nd.png" width="15"> [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(1 New Submission!)*
+
+
+
+
+## All Categories:
 - [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md)
 - [Dining Halls](categories/Dining-Halls/Dining-Halls.md)
 - [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(New Submissions!)*
 - [ResMail](categories/ResMail/ResMail.md)
 - [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(New Submissions!)*
-- [WVF to Wolly's](categories/WVF-to-Wolly's/WVF-to-Wolly's.md)
+- [Dorm to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(Previously WVF to Wolly's)*
 
 
 
