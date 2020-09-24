@@ -19,7 +19,7 @@ Join the server [here](https://discord.gg/wU7gCkM)!
 ## Featured Run: 
 
 
-**ResMail 100% [NEW WORLD RECORD] Run by [Elmray](www.reddit.com/user/Many_Bird_2579) in 16 Minutes 50.43s!**
+**ResMail 100% [NEW WORLD RECORD] Run by [Elmray](https://www.reddit.com/user/Many_Bird_2579) in 16 Minutes 50.43s!**
 
 [<img src="https://img.youtube.com/vi/UNIeMGs_ta8/0.jpg">](https://www.youtube.com/watch?v=UNIeMGs_ta8)
 
