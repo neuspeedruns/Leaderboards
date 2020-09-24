@@ -15,13 +15,13 @@ The time starts once you start crossing your first bridge, and ends after crossi
 
 ### 100% Leaderboard
 
-
 | Position |    Runner     |  Time | Date|Link|
 |:----------:|:-------------:|:------:|:----:|:---:|
-| <img src="../../img/1st.png" width="15">**1st** | [louderlotto](https://www.reddit.com/user/louderlotto/) | 3m 54s 850ms  | September 22th, 2020 | [Link](https://www.youtube.com/watch?v=xeoFSoX1CVg) |
-| <img src="../../img/2nd.png" width="15">**2nd** | [Arridon](https://www.reddit.com/user/Arridon/) | 4m 44s 400ms  | September 22th, 2020 | [Link](https://youtu.be/UYny0g0ta9w) |
-| <img src="../../img/3rd.png" width="15">**3rd** | [Kings_of_West_Willis](https://www.reddit.com/user/Kings_of_West_Willis/) | 4m 51s 670ms  | September 21th, 2020 | [Link](https://www.youtube.com/watch?v=Peo-wvliLn8) |
-| **4th** | [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) | 5m 13s 260ms  | September 21th, 2020 | [Link](https://www.youtube.com/watch?v=al_iDcw2ywU) |
+| <img src="../../img/1st.png" width="15">**1st** | [louderlotto](https://www.reddit.com/user/louderlotto/) | 3m 54s 850ms  | September 22nd, 2020 | [Link](https://www.youtube.com/watch?v=xeoFSoX1CVg) |
+| <img src="../../img/2nd.png" width="15">**2nd** | Spicy | 4m 19s 770ms  | September 23rd, 2020 | [Link](https://youtu.be/SzO3104m-yE) |
+| <img src="../../img/3rd.png" width="15">**3rd** | [Arridon](https://www.reddit.com/user/Arridon/) | 4m 44s 400ms  | September 22nd, 2020 | [Link](https://youtu.be/UYny0g0ta9w) |
+| **4th** | [Kings_of_West_Willis](https://www.reddit.com/user/Kings_of_West_Willis/) | 4m 51s 670ms  | September 21st, 2020 | [Link](https://www.youtube.com/watch?v=Peo-wvliLn8) |
+| **5th** | [the_gingiraffe](https://www.reddit.com/user/the_gingiraffe/) | 5m 13s 260ms  | September 21st, 2020 | [Link](https://www.youtube.com/watch?v=al_iDcw2ywU) |
 
 
 

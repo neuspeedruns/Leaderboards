@@ -47,16 +47,16 @@ Join the server [here](https://discord.gg/wU7gCkM)!
 - [Dorm to Wolly's](categories/Dorm-to-Wolly's/Dorm-to-Wolly's.md) *(Previously WVF to Wolly's)*
 
 ## Hot Categories 
-- <img src="img/1st.png" width="15"> [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(4 New Submissions!)*
-- <img src="img/2nd.png" width="15"> [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(1 New Submission!)*
-- <img src="img/3rd.png" width="15"> [ResMail](categories/ResMail/ResMail.md) *(1 New Submissions!)*
+- <img src="img/1st.png" width="15"> [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(1 New Submissions!)*
+- <img src="img/2nd.png" width="15"> [ResMail](categories/ResMail/ResMail.md) *(1 New Submissions!)*
+- <img src="img/3rd.png" width="15"> [Dining Halls](categories/Dining-Halls/Dining-Halls.md) *(1 New Submission!)*
 
 
 
 
 ## All Categories:
 - [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md)
-- [Dining Halls](categories/Dining-Halls/Dining-Halls.md)
+- [Dining Halls](categories/Dining-Halls/Dining-Halls.md) *(New Submissions!)*
 - [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(New Submissions!)*
 - [ResMail](categories/ResMail/ResMail.md) *(New Submissions!)*
 - [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(New Submissions!)*
