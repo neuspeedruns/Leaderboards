@@ -1,7 +1,16 @@
 # NEU Speed Runs
-This website contains the leaderboards for all NEU related speedruns. This site was created to allow students to compete in a series of different on-campus speedruns. That being said, please remember that the purpose of this is entirely for fun, and should never be taken too far in terms of putting anyone at risk (i.e. running very fast through crowded areas, breaking on-campus rules, etc.). Please remember to have fun, be competitve, and stay safe.
+This website contains the leaderboards for all NEU related speedruns. This site was created to allow students to compete in a series of different on-campus speedruns. Please remember that the purpose of this is entirely for fun, and should never be taken too far in terms of putting anyone at risk (i.e. running very fast through crowded areas, breaking on-campus rules, breaking COVID-19 guidelines, etc.). Please remember to have fun, be competitve, and stay safe.
 
-This website is a work in progress. For patch notes and **awesome upcoming features**, see [here](updates/updates.md).
+---
+
+## Safety/Liability Warning: 
+Our reasoning behind setting all of this up was to give students a great new way to meet up, compete, and have fun outside in a safe environment during these trying times. While we want everyone to have fun while taking part in this new community, we really want to urge everyone to be careful not to get hurt while taking part, as we are not responsible for any injuries or other damages caused. Please try to always have someone with you/near by (great excuse to meet new people via discord) while you are doing a run (especially at night).
+
+On the same note, everyone who is taking part should have the following two phone numbers entered into their phone incase anyone ever gets hurt:
+- **NUPD Non-Emergency Number**: *(617) 373-2121*
+- **NUPD Emergency Number**: *(617) 373-3333*
+
+Remember, this may seem obvious, but you cannot take the same risks you would when speedrunning a video game.
 
 ---
 
@@ -13,6 +22,15 @@ It will take a few days to populate with everyone, but we are confident that thi
 It's also important to note that you don't have to be a "speedrunner" to join this community. Whether you want to get the next world record in one of our competitve categories, submit a run for fun, keep track of the current runners, or just meet new people, this community is for you! So be sure to spread the word to friends! We look forward to talking with you all soon on the Server!
 
 Join the server [here](https://discord.gg/wU7gCkM)!
+
+---
+
+## Updates:
+
+- This website is a work in progress. For patch notes and **awesome upcoming features**, see [here](updates/updates.md).
+- Category Requests: 
+  - We have recieved tons of requests for categories. We will be adding more of them very soon! So stay tuned. 
+  - If you really want a category made fast, start talking to others about it in the discord server!
 
 ---
 
