@@ -12,7 +12,7 @@ No Verified Runs for this speedrun yet... Submit a run [here](https://forms.gle/
 
 | Position |    Runner     |  Time | Date|Link|
 |:----------:|:-------------:|:------:|:----:|:---:|
-| <img src="../../img/1st.png" width="15">**1st** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
+| <img src="../../img/1st.png" width="15">**1st** | [Elmray](www.reddit.com/user/Many_Bird_2579) | 16m 50s 430ms  | September 23th, 2020 | [Link](https://www.youtube.com/watch?v=UNIeMGs_ta8&feature=youtu.be) |
 | <img src="../../img/2nd.png" width="15">**2nd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
 | <img src="../../img/3rd.png" width="15">**3rd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
 

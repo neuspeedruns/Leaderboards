@@ -19,9 +19,9 @@ Join the server [here](https://discord.gg/wU7gCkM)!
 ## Featured Run: 
 
 
-**Four Bridges 100% [NEW WORLD RECORD] Run by [louderlotto](https://www.reddit.com/user/louderlotto/) in 3 Minutes 54.85s! Almost a full minute of time saved!**
+**ResMail 100% [NEW WORLD RECORD] Run by [Elmray](www.reddit.com/user/Many_Bird_2579) in 16 Minutes 50.43s!**
 
-[<img src="https://img.youtube.com/vi/xeoFSoX1CVg/0.jpg">](https://www.youtube.com/watch?v=xeoFSoX1CVg)
+[<img src="https://img.youtube.com/vi/UNIeMGs_ta8/0.jpg">](https://www.youtube.com/watch?v=UNIeMGs_ta8)
 
 # Categories
 ---
