@@ -10,6 +10,12 @@ On the same note, everyone who is taking part should have the following two phon
 - **NUPD Non-Emergency Number**: *(617) 373-2121*
 - **NUPD Emergency Number**: *(617) 373-3333*
 
+Also, if you are planning on running on campus, the following must be followed:
+- Complete your Daily Wellness Check on the day of your run
+- Get Tested at Cabot, or have been tested NEGATIVE within the past 3 days (as required by all Regular In-Person students).
+- Wear a mask during your run
+- Maintain social distance from others if you are running/filming with someone
+
 Remember, this may seem obvious, but you cannot take the same risks you would when speedrunning a video game.
 
 ---
@@ -47,7 +53,7 @@ Join the server [here](https://discord.gg/wU7gCkM)!
 - [Dorm to Wolly's](categories/Dorm-to-Wolly's/Dorm-to-Wolly's.md) *(Previously WVF to Wolly's)*
 
 ## Hot Categories 
-- <img src="img/1st.png" width="15"> [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(1 New Submissions!)*
+- <img src="img/1st.png" width="15"> [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(3 New Submissions!)*
 - <img src="img/2nd.png" width="15"> [ResMail](categories/ResMail/ResMail.md) *(1 New Submissions!)*
 - <img src="img/3rd.png" width="15"> [Dining Halls](categories/Dining-Halls/Dining-Halls.md) *(1 New Submission!)*
 
