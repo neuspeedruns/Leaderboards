@@ -5,6 +5,8 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 
 ## New Category: [Daily Wellness Check (DWC) Speedrun](categories/Wellness-Check/Wellness-Check.md)
 
+---
+
 ## Featured Run: 
 
 
