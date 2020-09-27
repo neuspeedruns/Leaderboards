@@ -3,6 +3,66 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 
 ---
 
+## New Category: [Daily Wellness Check (DWC) Speedrun](categories/Wellness-Check/Wellness-Check.md)
+
+## Featured Run: 
+
+
+**Cabot Testing Center 100% [NEW WORLD RECORD] Run by [daanix19](https://www.reddit.com/user/daanix19/) in 2 Minutes 57s!**
+
+[<img src="https://img.youtube.com/vi/JJIrHXD30oI/0.jpg">](https://www.youtube.com/watch?v=JJIrHXD30oI)
+
+# Categories
+---
+## New Category: Daily Wellness Check
+- <img src="img/1st.png" width="15"> [Daily Wellness Check (DWC)](categories/Wellness-Check/Wellness-Check.md)
+
+## Hot Categories 
+- <img src="img/1st.png" width="15"> [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md) *(2 New Submissions!)*
+- <img src="img/2nd.png" width="15"> [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(1 New Submissions!)*
+- <img src="img/3rd.png" width="15"> [ResMail](categories/ResMail/ResMail.md) *(1 New Submissions!)*
+
+
+
+
+
+## All Categories:
+- [Daily Wellness Check (DWC)](categories/Wellness-Check/Wellness-Check.md)
+- [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md) *(New Submissions!)*
+- [Dining Halls](categories/Dining-Halls/Dining-Halls.md)
+- [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(New Submissions!)*
+- [ResMail](categories/ResMail/ResMail.md) *(New Submissions!)*
+- [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md)
+- [Dorm to Wolly's](categories/Dorm-to-Wolly's/Dorm-to-Wolly's.md) *(Previously WVF to Wolly's)*
+
+
+
+---
+
+## Submit a Run:
+Submit a run [here](https://forms.gle/hHda5Qc1Fa8ozx5f7).
+
+## Suggest a Category:
+Suggest a category [here](https://forms.gle/SrYrvaDFVL6XuNJi8).
+
+---
+
+## FAQ
+
+#### How long will it take for my run to get verified on the site?
+In the future, it will be very quick. While the functionality for automatically adding runs to the site is still being developed, it could take anywhere from 15 minutes to a few days. Apologies for any delay
+
+#### Like to get involved?
+Feel free to email us: [neuspeedruns@gmail.com](mailto:neuspeedruns@gmail.com) 
+
+#### Is this an official "thing" run through the University?
+No, this is a student run simple webpage hosted through github pages.
+
+#### Can I help Mod the discord server?
+We currently have a couple mods, but we are happy to take on more people! Speedrunning discord servers are usually quite community run, so everyone will have a decent amount of permissions as a spectator/runner.
+
+---
+
 ## Safety/Liability Warning: 
 Our reasoning behind setting all of this up was to give students a great new way to meet up, compete, and have fun outside in a safe environment during these trying times. While we want everyone to have fun while taking part in this new community, we really want to urge everyone to be careful not to get hurt while taking part, as we are not responsible for any injuries or other damages caused. Please try to always have someone with you/near by (great excuse to meet new people via discord) while you are doing a run (especially at night).
 
@@ -39,61 +99,4 @@ Join the server [here](https://discord.gg/wU7gCkM)!
   - If you really want a category made fast, start talking to others about it in the discord server!
 
 ---
-
-## Featured Run: 
-
-
-**Cabot Testing Center 100% [NEW WORLD RECORD] Run by [daanix19](https://www.reddit.com/user/daanix19/) in 2 Minutes 57s!**
-
-[<img src="https://img.youtube.com/vi/JJIrHXD30oI/0.jpg">](https://www.youtube.com/watch?v=JJIrHXD30oI)
-
-# Categories
----
-## New Categories
-- [Dorm to Wolly's](categories/Dorm-to-Wolly's/Dorm-to-Wolly's.md) *(Previously WVF to Wolly's)*
-
-## Hot Categories 
-- <img src="img/1st.png" width="15">[Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md) *(2 New Submissions!)*
-- <img src="img/2nd.png" width="15"> [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(1 New Submissions!)*
-- <img src="img/3rd.png" width="15"> [ResMail](categories/ResMail/ResMail.md) *(1 New Submissions!)*
-
-
-
-
-
-## All Categories:
-- [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md) *(New Submissions!)*
-- [Dining Halls](categories/Dining-Halls/Dining-Halls.md) *(New Submissions!)*
-- [Four Bridges](categories/Four-Bridges/Four-Bridges.md) *(New Submissions!)*
-- [ResMail](categories/ResMail/ResMail.md) *(New Submissions!)*
-- [Wolly's to Wolly's](categories/Wolly's-to-Wolly's/Wolly's-to-Wolly's.md) *(New Submissions!)*
-- [Dorm to Wolly's](categories/Dorm-to-Wolly's/Dorm-to-Wolly's.md) *(Previously WVF to Wolly's)*
-
-
-
----
-
-## Submit a Run:
-Submit a run [here](https://forms.gle/hHda5Qc1Fa8ozx5f7).
-
-## Suggest a Category:
-Suggest a category [here](https://forms.gle/SrYrvaDFVL6XuNJi8).
-
----
-
-## FAQ
-
-#### How long will it take for my run to get verified on the site?
-In the future, it will be very quick. While the functionality for automatically adding runs to the site is still being developed, it could take anywhere from 15 minutes to a few days. Apologies for any delay
-
-#### Like to get involved?
-Feel free to email us: [neuspeedruns@gmail.com](mailto:neuspeedruns@gmail.com) 
-
-#### Is this an official "thing" run through the University?
-No, this is a student run simple webpage hosted through github pages.
-
-#### Can I help Mod the discord server?
-We currently have a couple mods, but we are happy to take on more people! Speedrunning discord servers are usually quite community run, so everyone will have a decent amount of permissions as a spectator/runner.
-
-
 
