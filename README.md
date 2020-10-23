@@ -3,21 +3,15 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 
 ---
 
-## New Category: [Daily Wellness Check (DWC) Speedrun](categories/Wellness-Check/Wellness-Check.md)
-
----
-
 ## Featured Run: 
 
 
-**Cabot Testing Center 100% [NEW WORLD RECORD] Run by [daanix19](https://www.reddit.com/user/daanix19/) in 2 Minutes 57s!**
+**ResMail Any% [NEW WORLD RECORD] Run by Elmray in 4.08 Seconds!**
 
-[<img src="https://img.youtube.com/vi/JJIrHXD30oI/0.jpg">](https://www.youtube.com/watch?v=JJIrHXD30oI)
+[<img src="https://img.youtube.com/vi/yLO1TLAzZ3s/0.jpg">](https://www.youtube.com/watch?v=yLO1TLAzZ3s)
 
 # Categories
 ---
-## New Category: Daily Wellness Check
-- <img src="img/1st.png" width="15"> [Daily Wellness Check (DWC)](categories/Wellness-Check/Wellness-Check.md)
 
 ## Hot Categories 
 - <img src="img/1st.png" width="15"> [Cabot Testing Center](categories/Cabot-Testing-Center/Cabot-Testing-Center.md) *(2 New Submissions!)*

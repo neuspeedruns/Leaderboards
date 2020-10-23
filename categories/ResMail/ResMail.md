@@ -19,7 +19,7 @@ This speedrun is a luck-based speedrun that entirely relies on how quickly the R
 
 | Position |    Runner     |  Time | Date|Link|
 |:----------:|:-------------:|:------:|:----:|:---:|
-| <img src="../../img/1st.png" width="15">**1st** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
+| <img src="../../img/1st.png" width="15">**1st** | Elmray | 04s 080ms  | October 19th, 2020 | [Link](https://www.youtube.com/watch?v=yLO1TLAzZ3s) |
 | <img src="../../img/2nd.png" width="15">**2nd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
 | <img src="../../img/3rd.png" width="15">**3rd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
 

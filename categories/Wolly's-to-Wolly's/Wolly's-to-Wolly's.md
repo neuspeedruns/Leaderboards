@@ -18,8 +18,8 @@ Reminder that any run that violates any campus rules/COVID-19 regulations is voi
 
 | Position |    Runner     |  Time | Date|Link|
 |:----------:|:-------------:|:------:|:----:|:---:|
-| <img src="../../img/1st.png" width="15">**1st** | Shaked Lotem / Tobias Van Schaick | 1m 57s 120ms  | September 23th, 2020 | [Link](https://youtu.be/7f1mfSIfHLU) |
-| <img src="../../img/2nd.png" width="15">**2nd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
-| <img src="../../img/3rd.png" width="15">**3rd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
+| <img src="../../img/1st.png" width="15">**1st** | [ISEC 2: Electric Boogaloo](https://www.youtube.com/channel/UCvLtzhSAKDak97oJeRhUZXQ/) | 1m 35s 030ms  | October 11th, 2020 | [Link](https://www.youtube.com/watch?v=4DSVzVTCPQw) |
+| <img src="../../img/2nd.png" width="15">**1st** | Shaked Lotem / Tobias Van Schaick | 1m 57s 120ms  | September 23th, 2020 | [Link](https://youtu.be/7f1mfSIfHLU) |
+| <img src="../../img/3rd.png" width="15">**2nd** | Empty | 0m 00s 000ms  | September 20th, 2020 | [Link]() |
 
 [Other Categories](../../README.md)
