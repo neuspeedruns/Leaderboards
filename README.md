@@ -6,7 +6,7 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 ## Featured Run: 
 
 
-**ResMail Any% [NEW WORLD RECORD] Run by Elmray in 4.08 Seconds!**
+**ResMail Any% [NEW WORLD RECORD] Run by [Elmray](https://neuspeedruns.github.io/Leaderboards/categories/ResMail/www.reddit.com/user/Many_Bird_2579) in 4.08 Seconds!**
 
 [<img src="https://img.youtube.com/vi/yLO1TLAzZ3s/0.jpg">](https://www.youtube.com/watch?v=yLO1TLAzZ3s)
 
