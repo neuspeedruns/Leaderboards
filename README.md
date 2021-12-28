@@ -1,6 +1,13 @@
 # NEU Speed Runs
 This website contains the leaderboards for all NEU related speedruns. This site was created to allow students to compete in a series of different on-campus speedruns. Please remember that the purpose of this is entirely for fun, and should never be taken too far in terms of putting anyone at risk (i.e. running very fast through crowded areas, breaking on-campus rules, breaking COVID-19 guidelines, etc.). Please remember to have fun, be competitve, and stay safe.
 
+
+## Discontinued
+Thank you everyone for your interest in making this trend. Currently, the people moderating this are no longer able to continue doing so. This site will remain up to highlight those runs that have already occured. If you have any interest in taking over, please join the discord (click icon above) and message the moderators. We had a great run, with both the husky husky and the red and black writing articles about this trend/meme:
+
+- The Husky Husky: http://thehuskyhusky.com/article/students-begin-speedrunning-corona-testing
+- Red and Black: https://nuredandblack.com/2021/02/07/the-hidden-athletes-among-us/
+
 ---
 
 ## Featured Run: 
