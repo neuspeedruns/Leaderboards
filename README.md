@@ -5,8 +5,8 @@ This website contains the leaderboards for all NEU related speedruns. This site 
 ## Discontinued
 Thank you everyone for your interest in making this trend. Currently, the people moderating this are no longer able to continue doing so. This site will remain up to highlight those runs that have already occured. If you have any interest in taking over, please join the discord (click icon above) and message the moderators. We had a great run, with both the husky husky and the red and black writing articles about this trend/meme:
 
-- The Husky Husky: http://thehuskyhusky.com/article/students-begin-speedrunning-corona-testing
-- Red and Black: https://nuredandblack.com/2021/02/07/the-hidden-athletes-among-us/
+- The Husky Husky: [http://thehuskyhusky.com/article/students-begin-speedrunning-corona-testing](http://thehuskyhusky.com/article/students-begin-speedrunning-corona-testing)
+- Red and Black: [https://nuredandblack.com/2021/02/07/the-hidden-athletes-among-us/](https://nuredandblack.com/2021/02/07/the-hidden-athletes-among-us/)
 
 ---
 
